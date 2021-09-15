@@ -1,0 +1,23 @@
+/*answerr1*/
+* {
+  box-sizing: border-box;
+}
+
+body  {
+  background-image: url("../images/rose.jpg");
+  
+  
+}
+
+.item {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  padding-top: 75px;
+  /*background: #ccc;*/
+  background-image: url("../images/babyy.jpg");
+
+  text-align: center;
+  color: #FFF;
+  font-size: 3em;
+}
