@@ -1,2 +1,2 @@
 # aos
-Great repository names are short and memorable. Need inspiration? How about sturdy-lamp? 
+https://arpasaha-as.github.io/aos/
